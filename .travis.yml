@@ -1,3 +1,5 @@
 language: Swift
 xcode_project: TestTravisApp.xcodeproj # path to your xcodeproj folder
 xcode_scheme: TestTravisApp
+
+#Some test comment
